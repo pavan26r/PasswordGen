@@ -1,4 +1,4 @@
-NOTE -> this are my old work im just uploading it know -> GO AHEAD(REVIEW WORK)
+NOTE -> this is  my old work im just uploading it now -> GO AHEAD(REVIEW WORK)
 🔐 React Password Generator
 
 A simple and customizable password generator built with React + Tailwind CSS.
